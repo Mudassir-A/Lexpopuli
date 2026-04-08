@@ -176,9 +176,4 @@ Contributions are welcome! Please ensure:
 - Code follows the existing style
 - Changes are tested in both dev and production modes
 
-## 📞 Contact & Support
-
-- **Email**: support@lexguide.ai
-- **Phone**: 1-800-LEX-GUIDE
-- **Address**: 123 Justice Ave, Suite 100
 
